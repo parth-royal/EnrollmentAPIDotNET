@@ -1,7 +1,7 @@
 
 
 
-<!-- pandoc -f markdown -t html   --standalone   --css copenhagen.css   --toc   --toc-depth=3   --number-sections   doc.md   -o output.html 
+<!-- pandoc -f markdown -t html   --standalone   --css copenhagen.css   --toc   --toc-depth=3   --number-sections   doc.md   -o index.html 
  -->
 
 <!-- https://github.com/jez/pandoc-markdown-css-theme -->
